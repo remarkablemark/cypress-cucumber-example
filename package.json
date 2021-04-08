@@ -3,6 +3,7 @@
     "cypress:open": "cypress open"
   },
   "devDependencies": {
-    "cypress": "^7.0.1"
+    "cypress": "^7.0.1",
+    "cypress-cucumber-preprocessor": "^4.0.3"
   }
 }
