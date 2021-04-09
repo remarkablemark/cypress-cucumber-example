@@ -1,0 +1,16 @@
+name: end-to-end
+on: [push]
+
+jobs:
+  cypress-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run Cypress tests
+        uses: cypress-io/github-action@v2
+        with:
+          browser: chrome
+          headless: true
