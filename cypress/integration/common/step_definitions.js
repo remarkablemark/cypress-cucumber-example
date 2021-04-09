@@ -9,5 +9,9 @@ Then('I see title {string}', (title) => {
 });
 
 Then('I see text {string}', (text) => {
-  cy.get('body').contains(text);
+  cy.get('body').should('contain', text);
+});
+
+Then('I see link {string}', (text) => {
+  cy.xpath(`//a[text()="${text}"]`).should('have.length', 1);
 });
