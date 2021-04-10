@@ -4,10 +4,6 @@ Given('I go to {string}', (url) => {
   cy.visit(url);
 });
 
-When('I click first input {string}', (value) => {
-  cy.xpath(`(//input[@value="${value}"])[1]`).click();
-});
-
 Then('I see title {string}', (title) => {
   cy.title().should('equal', title);
 });
