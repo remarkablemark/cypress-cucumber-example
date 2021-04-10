@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "cypress:open": "cypress open",
+    "cypress:open": "CYPRESS_TAGS='' cypress open",
     "cypress:run": "cypress run"
   },
   "devDependencies": {
