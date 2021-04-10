@@ -5,6 +5,12 @@
 
 Examples of using [Cypress](https://www.cypress.io/) with [Cucumber](https://cucumber.io/). Inspired by [cypress-cucumber-example](https://github.com/TheBrainFamily/cypress-cucumber-example).
 
+Dependencies:
+
+- [cypress](https://www.npmjs.com/package/cypress)
+- [cypress-cucumber-preprocessor](https://www.npmjs.com/package/cypress-cucumber-preprocessor)
+- [cypress-xpath](https://www.npmjs.com/package/cypress-xpath)
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/)
