@@ -1,6 +1,6 @@
 Feature: Song
 
-  As a happy singer, I clap my hands.
+  As a happy singer, clap your hands.
 
   @skip
   Scenario: Happy singer claps hands.
