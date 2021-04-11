@@ -3,7 +3,7 @@
 [![end-to-end](https://github.com/remarkablemark/cypress-cucumber-example/actions/workflows/end-to-end.yml/badge.svg)](https://github.com/remarkablemark/cypress-cucumber-example/actions/workflows/end-to-end.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/remarkablemark/cypress-cucumber-example)
 
-Examples of using [Cypress](https://www.cypress.io/) with [Cucumber](https://cucumber.io/). Inspired by [cypress-cucumber-example](https://github.com/TheBrainFamily/cypress-cucumber-example).
+Examples of using [Cypress](https://www.cypress.io/) with [Cucumber](https://cucumber.io/). Inspired by [cypress-cucumber-example](https://github.com/TheBrainFamily/cypress-cucumber-example). Watch [YouTube video](https://youtu.be/YV3qPvhJ-rg).
 
 Dependencies:
 
