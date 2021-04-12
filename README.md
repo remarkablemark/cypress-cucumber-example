@@ -36,13 +36,13 @@ yarn
 Open Cypress:
 
 ```sh
-yarn cypress open
+yarn cypress:open
 ```
 
 Run Cypress:
 
 ```sh
-yarn cypress run
+yarn cypress:run
 ```
 
 ## License
